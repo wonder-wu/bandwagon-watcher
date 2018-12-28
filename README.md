@@ -1,0 +1,1 @@
+A simple cmd tool to get info of servers in bandwagonhost
